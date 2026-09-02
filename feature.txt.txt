@@ -1,1 +1,3 @@
-creating new feture for the proj in copy brach
+feature1 (main brach)
+feature2
+feature3
