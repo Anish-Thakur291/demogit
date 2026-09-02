@@ -1,4 +1,4 @@
-feature1 (main brach)
+feature1 (main brach)+ bugfix
 feature2
 feature3
 feature4
